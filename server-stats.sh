@@ -1,6 +1,8 @@
 #!/bin/bash
+echo "=================="
 echo "***Server Stats***"
-echo
+echo "=================="
+echo 
 
 # Present OS 
 echo "*** Current OS ***"
