@@ -20,4 +20,4 @@ chmod +x server-stats.sh
 ```
 
 ## Demo Execution
-[image](server-stats-output.png)
+![image](server-stats-output.png)
