@@ -1,6 +1,6 @@
 # Server Performance Stats 
 A bash script to analyse basic server performance stats.
-This Project is from [Roadmap.sh](https://roadmap.sh/projects/server-stats) the link is
+This Project is from [Roadmap.sh](https://roadmap.sh/projects/server-stats)
 
 
 ## Getting Started
